@@ -6,10 +6,11 @@
 ## 个人信息
 - 教育: 广西科技大学/信息管理与信息系统(计算机相关)
 - 工作经验： 4年(2015/07 - 至今)
-- 技术博客:https://segmentfault.com/u/linxi_59223381a31e3
-- Github: https://github.com/1134506391
 - 期望薪资：税前月薪15k~20k
 - 期望城市: 东莞、深圳、广州
+- 技术博客:https://segmentfault.com/u/linxi_59223381a31e3
+- Github: https://github.com/1134506391
+- 优势: 熟悉vue+node(egg)+mysql(sequlize)，理解mvvm模式
 
 ## 技术栈
 - 前端： html、css,、javaScript、jQuery、vue、HybridApp(Apicloud)、微信小程序、webpack
@@ -32,7 +33,7 @@
 5. 使用appuploader,实现可在window系统提交,审核ios版本,解决没有Mac系统,无法发布ios版本的app
 
 **丑板凳官网**(http://youthtrain.cn/)
-1. 使用node(egg)+mysql(sequlize),全栈开发前后台
+1. 使用node(egg)+mysql(sequlize),MVC模式全栈开发前后台
 1. 使用响应式布局,使用户在使用手机或者电脑打开官网,都能获得友好的浏览体检
 2. 根据图片的使用场景和用图,设置相应的格式,压缩图片,从而优化网页加载图片的性能
 3. 给不经常变动的资源设置强缓存,优化网页打开速度
@@ -42,6 +43,7 @@
 2. 益诺欧(http://www.yeanovo.com/)
 3. 云舒(http://www.cloudsoar.com/)
 4. 通立电梯(http://www.zzftldt.com/)
+
 ### 广州纵天科技有限公司--- 2016年7月--2017年10月
 1. 亲润商城(http://www.qinrun.com/)
 2. 诺心蛋糕(http://www.lecake.com/)
@@ -52,3 +54,4 @@
 
 ## 致谢
 感谢您在百忙之中，抽空看了我的简历，期待能有机会和您共事,谢谢！
+
